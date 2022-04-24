@@ -1,13 +1,10 @@
-import module
+import figures
 
-#module.get_set()
+figures.circle_area()
+figures.square_area()
+figures.triangle_area()
+figures.circle_perimeter()
+figures.square_perimeter()
+figures.triangle_perimeter()
 
-#module.get_txt()
-
-#print(module.list_doc.doc)
-
-print(module.file_doc.doc)
-
-#print(module.get_binary())
-
-#print(dir(module))
+print(dir(figures))
